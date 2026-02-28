@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I’m Harsh 👋  <br>Full Stack Developer | Java | Node.js | AI Enthusiast | Open to internships 🚀<br><br>---<br><br>## 🔭 I’m currently working on:<br>- Multi-Vendor E-commerce Platform (Full Stack)<br>- AI Discovery Agent (Node.js + APIs + Automation)<br><br>## 👯 I’m looking to collaborate on:<br>- Full Stack Java web applications  <br>- Backend systems and REST APIs  <br><br>## 🤝 I’m looking for help with:<br>- Scalable system design  <br>- AI integration in web applications  <br><br>## 🌱 I’m currently learning:<br>- AI/ML fundamentals  <br>- Advanced Java (Spring Boot)  <br>- Backend architecture  <br><br>## 💬 Ask me about:<br>- Java, JDBC, Spring Boot  <br>- Node.js & MySQL  <br>- REST APIs & Full Stack development  <br><br>## ⚡ Fun fact:<br>Full Stack developer building AI-powered web apps 🚀<br><br>---<br><br>## 🛠 Tech Stack<br>- 💻 Languages: Java, JavaScript,C++<br>- 🌐 Backend: Node.js,Express.js, Spring Boot<br>- 🗄 Database: MySQL,MongoDB<br>- 🎨 Frontend: HTML, CSS, React (if using)<br><br>---<br><br>## 📌 Featured Projects<br>- 🛒 Multi-Vendor Marketplace for Small Businesses  <br>- 🤖 AI Discovery Agent  <br>- ☕ Java JDBC Student CRUD System  <br>
 
-<!--
-**HARSHTIWARI345/HARSHTIWARI345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshtiwar300@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Harsh Tiwari&icon=3&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
